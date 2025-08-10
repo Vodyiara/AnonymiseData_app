@@ -1,0 +1,7 @@
+source_database_dsn: mongodb://example_user:example_password@localhost:27017
+source_collection_name: test
+source_database_name: local
+destination_database_dsn: postgresql://postgres:1234@localhost:5432/postgres
+destination_collection_name: devices_moved
+destination_database_name: postgres
+field_to_anonymise: name  

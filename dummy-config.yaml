@@ -1,0 +1,7 @@
+source_database_dsn: DSN connect to DB
+source_collection_name: collection name to data from DB
+source_database_name: db name to take data from
+destination_database_dsn: DS to connect destination DB
+destination_collection_name: collection name to put data to
+destination_database_name: db name to put data to
+field_to_anonymise: mane of the column to anonymise
